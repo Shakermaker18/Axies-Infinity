@@ -1,0 +1,46 @@
+section {
+    color: #0a0806; font-size: 30px;
+}
+
+#caption {
+    color: rgb(211, 9, 9);
+}
+
+section h1 thead th {
+    color: blue;
+}
+
+#tr {
+    color: #07dff2;
+}
+
+.planta {
+    color: greenyellow;
+}
+.bestia {
+    color: orange;
+}
+.ave {
+    color: #8896f2
+}
+.acuatico {
+    color: #117380
+}
+.reptil {
+    color: #4c0663
+}
+
+.color-title {
+    color: #62ec06; font-size: 30px;
+}
+
+.body-top {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 200;
+    font-size: 20px; 
+    background-color: #0d97e7;
+    background-image: url(img/Axies2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
